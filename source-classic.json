@@ -1,7 +1,7 @@
 {
-    "name": "Michael-128",
-    "subtitle": "A source for qBitControl, and my future apps.",
-    "description": "Welcome to my source! Here you'll find qBitControl, and my future apps.",
+    "name": "qBitControl",
+    "subtitle": "A source for qBitControl.",
+    "description": "Welcome to my source! Here you'll find qBitControl.",
     "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "headerURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "website": "https://github.com/Michael-128",
